@@ -1,0 +1,83 @@
+#header{
+    height: 550px;
+    background-color: white;
+    margin-top: 0px;
+}
+
+#headertext{
+    font-family: "League Spartan", sans-serif;
+    font-weight: bolder;
+    margin-top: 100px;
+    font-size: 80px;
+}
+
+#belowheadertext{
+    font-family: "League Spartan", sans-serif;
+}
+
+#logo{
+    top: 1px;
+    left: 1px;
+    height: 150px;
+    width: auto;
+    position: absolute;
+}
+
+#maindiv{
+    background-color: #182943;
+    height: 500px;
+}
+
+canvas{
+    border-radius: 15px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: #182943;
+}
+
+.buttons{
+    font-family: "League Spartan", sans-serif;
+    font-size: 30px;
+    background-color: white;
+    padding: 13px;
+    border-radius: 10px;
+    color: #182943;
+    border-width: 0px;
+}
+
+#status{
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+#steps{
+    font-family: "Poppins", sans-serif;
+    color: white;
+    font-size: 25px;
+
+}
+
+#stepstotake{
+    font-family: "League Spartan", sans-serif;
+    color: white;
+  
+}
+
+#diagnosis{
+    font-family: "League Spartan", sans-serif;
+    color: white;
+    font-weight: bolder;
+    font-size: 40px;
+ 
+}
+
+#onoff{
+    height: 50px;
+}
+
+#instructions{
+    color: #182943;
+    font-family: "League Spartan", sans-serif;
+    font-weight: bolder;
+    margin-top: 50px;
+}
