@@ -16,7 +16,7 @@
 .homebtn{
     font-family: "League Spartan", sans-serif;
     font-size: 30px;
-    background-color: white;
+    background-color: #eabd36;
     padding: 13px;
     border-radius: 10px;
     color: #182943;
@@ -46,5 +46,5 @@
 }
 
 .homebtn:hover{
-    background-color: rgb(194, 194, 194);
+    background-color: #c6a02f;
 }

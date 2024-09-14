@@ -48,6 +48,7 @@ canvas{
 #status{
     font-size: 25px;
     margin-top: 20px;
+    background-color: #eabd36;
 }
 
 #steps{
